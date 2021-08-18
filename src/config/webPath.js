@@ -1,6 +1,6 @@
 const PATH = {
     HOME:"/",
-    PROFILE:'/profile',
+    CART:'/cart',
     SIGNUP:'/signup',
     LOGIN:'/login',
     LOGOUT:'/logout'

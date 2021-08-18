@@ -2,7 +2,7 @@ const LABELS = {
     signup: 'Signup',
     login:'Login',
     logout:'logout',
-    profile: 'Profile',
+    cart: 'cart',
     home: 'Home'
 }
 export default LABELS

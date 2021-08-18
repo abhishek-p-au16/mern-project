@@ -14,7 +14,7 @@ const appNav =()=>{
       <nav className="d-inline-flex mt-2 mt-md-0 ms-md-auto">
           <HeaderLink to={PATH.LOGIN} name={LABELS.login}/>
           <HeaderLink to={PATH.SIGNUP} name={LABELS.signup}/>
-          <HeaderLink to={PATH.PROFILE} name={LABELS.profile}/>
+          <HeaderLink to={PATH.CART} name={LABELS.cart}/>
         
         
       </nav>
